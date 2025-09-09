@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Bhargavi Baichwal  
 
-Welcome to my GitHub! This is where I upload everything I’m learning and building — from **Python practice and LeetCode solutions** to **AWS projects**, **Databricks workflows**, and experiments with **Apache Spark**.  
-Think of this space as my personal **tech lab** 🧪 where I explore ideas, sharpen problem-solving skills, and grow as a **Data Engineer**.  
+Welcome to my GitHub! This is where I upload everything I’m learning and building from **Python practice and LeetCode solutions** to **AWS projects**, **Databricks workflows**, and experiments with **Apache Spark**.  
+Think of this space as my personal **tech lab** 🧪 where I explore ideas, sharpen problem solving skills, and grow as a **Data Engineer**.  
 
 ---
 
